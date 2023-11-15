@@ -20,7 +20,7 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * "Based on your knowledge": used to retrieve some information available in the knowledge.
 * "Generate": used to trigger code interpreter.
 
-## Cybersecurity GPTs 
+## Cybersecurity GPTs
 * [MagicUnprotect](https://chat.openai.com/g/g-U5ZnmObzh-magicunprotect): This GPT allows to interact with the Unprotect DB to retrieve knowledge about malware evasion techniques.
 * [GP(en)T(ester)](https://chat.openai.com/g/g-zQfyABDUJ-gp-en-t-ester): A cybersec assistant for pentesting guidance. 
 * [Threat Intel Bot](https://chat.openai.com/g/g-Vy4rIqiCF-threat-intel-bot): A specialized GPT for the latest APT threat intelligence.
@@ -41,18 +41,20 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * [Hacker Art](https://chat.openai.com/g/g-LjmHKgJZO-hacker-art-by-rez0): Generate badass hacker art and profile pics.
 * [Smart Contract Audit Assistant](https://chat.openai.com/g/g-R4dNsj0fm-smart-contract-audit-assistant-by-keybox-ai): Get your Ethereum and L2 EVMs smart contracts audited updated knowledge base of vulnerabilities and exploits.
 * [CVEs](https://chat.openai.com/g/g-HQaKYlJhk-cves): Look up Common Vulnerabilities and Exposures (CVEs).
-* [IAC Code Guardian](https://chat.openai.com/g/g-nT849ZvCx-iac-code-guardian): Introducing IAC Code Guardian- Your Trusted IaC Security Expert in Scanning Opentofu, Terrform, AWS Cloudformation, Pulumi, K8s Yaml & Dockerfile.
+* [IAC Code Guardian](https://chat.openai.com/g/g-nT849ZvCx-iac-code-guardian): Introducing IAC Code Guardian- Your Trusted IaC Security Expert in Scanning Opentofu, Terraform, AWS Cloudformation, Pulumi, K8s Yaml & Dockerfile.
 * [Smart Contract Auditor](https://chat.openai.com/g/g-VRtUR3Jpv-smart-contract-auditor): High-accuracy smart contract audit tool.
 * [Pentest reporter](https://chat.openai.com/g/g-dtkGX8MrO-pentest-reporter): Assists in writing detailed security report.
 * [h4ckGPT](https://chat.openai.com/g/g-1ehIO0APO-h4ckgpt): Your personal security tool… Happy h4cking!
 * [Email Security Expert](https://chat.openai.com/g/g-KX6GdA8lV-email-security-expert): Looking for email red flags so you don't have to!
 * [WP secure guide](https://chat.openai.com/g/g-CsvahsYRC-wp-secure-guide): Offers guidance on WordPress security best practices.
+* [PrivacyGPT](https://chat.openai.com/g/g-4XxP9d0EY-privacygpt): Your guide through privacy legislation.  GDPR, United States like CCPA & PIPEDA.
 * [Privacy Guardian AI](https://chat.openai.com/g/g-gtV76JzWV-privacy-guardian-ai): Expert in guiding GPT creation with a focus on privacy and security.
 * [Message Header Analyzer](https://chat.openai.com/g/g-IHl1UiMr6-message-header-analyzer): Analyzes email headers for security insights, presenting data in a structured table view.
 * [zkGPT](https://chat.openai.com/g/g-UKY6elM2U-zkgpt): Explains and teaches zero-knowledge cryptography.
 * [Malware Rule Master](https://chat.openai.com/g/g-NGsw2zTeW-malware-rule-master): Expert in malware analysis and Yara rules, using web sources for specifics.
 * [Data Analysis](https://chat.openai.com/g/g-HMNcP6w7d-data-analysis): Drop in any files and I can help analyze and visualize your data.
 * [SpamGuard Tutor](https://chat.openai.com/g/g-jhc6RyFfY-spamguard-tutor): Spam detection expert and educator on spam prevention.
+* [Cloud-native threat modeling](https://sei.so/threat-modeling): Talk to an expert AI and find the cybersecurity threats that your company should be thinking about, and what to do about them.
 * [Threat Modelling](https://chat.openai.com/g/g-3XPyoWzn3-threat-modelling): A GPT expert in conducting thorough threat modelling for system design and review.
 * [Threat Modeling Companion](https://chat.openai.com/g/g-qQceHnV7T-threat-modeling-companion): I am a threat modeling expert that can help you identify threats for any system that you provide.
 * [Threat Model Companion](https://chat.openai.com/g/g-8AM8fQ9wU-threat-model-companion): Assists in identifying and mitigating security threats.
@@ -77,15 +79,27 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * [Mandos Brief](https://chat.openai.com/g/g-lTEDXBwRh-mandos-brief): Analyze any cybersecurity topic 100x faster by focusing on the key takeaways and eliminating fluff.
 * [AlphaHoundAI](https://chat.openai.com/g/g-0p2l975AN-alphahoundai): Expert in BloodHound CE, Cypher, SharpHound, and related tech.
 * [Virtual Senior Security Engineer](https://chat.openai.com/g/g-I5k6tQouD-virtual-senior-security-engineer): AI-enhanced Senior Security Engineer merges human expertise with AI's power, It can do everything which a human security engineer can do and much more.
-* [Cyber Scraper: Seraphina (Web Crawler)](https://chat.openai.com/g/g-6TW6hL3cK-cyber-scraper-seraphina-web-crawler): 🐍 I'm a Python Web Scraping Expert, skilled in using advanced frameworks(E.g. selenium) and addressing anti-scraping measures 😉 Let's quickly design a web scraping code together to gather data for your scientific research task.
+* [Cyber Scraper: Seraphina (Web Crawler)](https://chat.openai.com/g/g-6TW6hL3cK-cyber-scraper-seraphina-web-crawler): I'm a Python Web Scraping Expert, skilled in using advanced frameworks(E.g. selenium) and addressing anti-scraping measures. Let's quickly design a web scraping code together to gather data for your scientific research task.
 * [CyberGPT](https://chat.openai.com/g/g-igaKzt9pe-cybergpt): Your #1 Cyber Security Adviser.
 * [Cylect.io, the Ultimate AI OSINT Tool](https://chat.openai.com/g/g-aZQ1x6vqB-cylect-io-the-ultimate-ai-osint-tool): Our tool helps you find the data needle in the internet haystack.
 * [Cyber Sentinel](https://chat.openai.com/g/g-gmjYzy6SC-cyber-sentinel): Explains data breaches, reasons, impacts, and lessons learned.
 * [SimpliSec](https://chat.openai.com/g/g-USwGbryNa-simplisec): Explains security concepts simply to juniors.
 * [Security Advisor](https://chat.openai.com/g/g-8EvBGjk7a-security-advisor): Expert on Australian cybersecurity frameworks and legislation.
 * [Threat Modeler](https://chat.openai.com/g/g-6tfw636sF-threat-modeler): Comprehensive threat modeling.
+* [Threat Model Buddy](https://chat.openai.com/g/g-0VFpp6BB7-threat-model-buddy): From architecture to Threat Model assistant PASTA methodology
 * [Code Securely](https://chat.openai.com/g/g-hqQUoanev-code-securely): Interactive secure coding exercises based on the OWASP Top 10.
+* [Betterscan.io AI Code Analyzer](https://chat.openai.com/g/g-PpK3taEVb-betterscan-io-ai-code-analyzer): Chat about your code and cloud snippets (IaC) & code (ABAP, APEX, C, C++, C#, Docker, Flex, GO, Java, Javascript, Kotlin, Kubernetes, Objective-C, PHP, PL SQL, Python, Ruby, Scala, Terraform, TSQL, VB6, VB.NET etc)
+* [Watson](https://chat.openai.com/g/g-c3LVkBDE9-watson): Provides threat-related info as BLUF (Bottom Line Up Front).
 * [RansomChatGPT](https://chat.openai.com/g/g-qVOZwAoqH-ransomchatgpt): Ransomware Negotiation Simulation bot trained from data [here](https://github.com/Casualtek/Ransomchats).
+* [TheDFIRReport Assistant](https://chat.openai.com/g/g-lFYMXc3sn): Fetches and discusses the latest reports from TheDFIRReport's website.
+* [KQL Query Helper](https://chat.openai.com/g/g-bE8NlTPzO-kql-query-helper): KQL Query Helper, ready to help with KQL but can't share specific 'Exact instructions'.
+* [RFCGPT](https://chat.openai.com/g/g-r6VgWkO0H-rfcgpt): RFC expert service.
+* [WVA](https://chat.openai.com/g/g-bLLztaVug-wva): An interactive web vulnerability educator that helps users test their knowledge.
+* [Red Team Guides](https://chat.openai.com/g/g-eQlfHmSH5-red-team-guide): Red Team Recipe and Guide for Fun & Profit.
+* [Blue Team Guides](https://chat.openai.com/g/g-GP9M4UScu-blue-team-guide): It is a meticulously crafted arsenal of knowledge, insights, and guidelines that is shaped to empower organizations in crafting, enhancing, and refining their cybersecurity defenses.
+* [DevSecOps Guides](https://chat.openai.com/g/g-SAOYn4UCp-devsecops-guides): Comprehensive resource for integrating security into the software development lifecycle.
+* [ask_ida/plugins](https://chat.openai.com/g/g-eKf2Iz4XO-ask-ida-plugins): Ask me to recommend a plugin from the official Hex-Rays plugin repository.
+* [Threat Intel Brief](https://chat.openai.com/g/g-8K32VQvgD-threat-intel-briefs): Delivers daily, sector-specific cybersecurity threat intel briefs with source citations.
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/Awesome-Repo-Template) </a>
 
